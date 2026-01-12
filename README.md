@@ -32,7 +32,7 @@ Writers and note takers often use many tools when creating. Some use paper to wr
 
 ![Design image](placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I want to have three main pages. A Home page for introductions and sign in, a Notes page for main toics and file organization, and a Connections pageofr the visual connections and studying purposes. I want to have a tab at the top that holds all the pages and a notes tab on the side that holds the notes you are using or the informtion you have. One of my main goals is to have pages of notes pop up on the screen so many can be viewed at once like sticky notes. 
 
 
 ### Key features
