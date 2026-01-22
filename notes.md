@@ -21,6 +21,8 @@ No problems worked just like it said in the [instruction](https://github.com/web
 
 This was easy as I have done it before in a previous class but it was a really good refresher. I had a bit of a hard time remembering hwo to use the href links and images. W3Schools was helpful to remind me what was needed so it didnt take me too long. 
 
+Editing Simon was insteresting as anything you wanted to add color, you had to note it as a style, then quote it. It reflects a lot of what is noted in the CSS, just without the extra file. 
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
