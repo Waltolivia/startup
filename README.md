@@ -59,9 +59,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [X] **Proper HTML element usage** - I used many elements like unorderd lists, lists, forms, inputs, and more
 - [X] **Links** - I have the pages linked between eachother and even have a link going to the first notebook on he sidebar as an example. 
 - [X] **Text** - I wrote desriptive paragraphs as well as Loum Ipsum parts to fill some space. 
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
+- [X] **3rd party API placeholder** - I have a connections image holding the location of the web, and some icons and text being palceholders as well. 
+- [X] **Images** - Some images are placeholder, but the painting is a example
+- [X] **Login placeholder** - Login button at the top of the page
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
 - [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
 
