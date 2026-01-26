@@ -61,9 +61,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [X] **Text** - I wrote desriptive paragraphs as well as Loum Ipsum parts to fill some space. 
 - [X] **3rd party API placeholder** - I have a connections image holding the location of the web, and some icons and text being palceholders as well. 
 - [X] **Images** - Some images are placeholder, but the painting is a example
-- [X] **Login placeholder** - Login button at the top of the page
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [X] **Login placeholder** - Login button at the top of the page as well as a entry box for the login
+- [X] **DB data placeholder** - I have an input spot in the notebooks page for a new notebook, this and the login are part of the database placeholder
+- [X] **WebSocket placeholder** - Notebook2 and Notebook3 are placehoders for updates from other people and live usage. 
 
 ## 🚀 CSS deliverable
 
