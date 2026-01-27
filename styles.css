@@ -1,9 +1,22 @@
 
 
 body {
-    background-color: navy;
+    background-color: rgb(39, 57, 131);
+    color:antiquewhite;
 }
-nav {
+header {
     background-color:antiquewhite;
-
+    color:rgb(39, 57, 131);
+    float: left;
+    text-align:center;
+    display: flex;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: fill;
+    list-style: none;
+    align-items: center;
+    gap: 4%;
 }
+
