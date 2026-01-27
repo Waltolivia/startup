@@ -3,6 +3,8 @@
 body {
     background-color: rgb(39, 57, 131);
     color:antiquewhite;
+    margin-top: 0;
+    text-align: center;
 }
 header {
     background-color:antiquewhite;
